@@ -1,6 +1,6 @@
-👋 Hello, fellow developers! I'm Ali Ahsan, a passionate frontend Angular developer with 2 years of experience.
+👋 Hello, fellow developers! I'm Ali Ahsan, a passionate frontend Angular and React developer.
 
-🌐 Specialized in building dynamic and responsive web applications using Angular, HTML, CSS, and JavaScript. I enjoy crafting engaging user interfaces and creating seamless user experiences.
+🌐 Specialized in building dynamic and responsive web applications using Angular,React js, HTML, CSS, and JavaScript. I enjoy crafting engaging user interfaces and creating seamless user experiences.
 
 🎨 A keen eye for design and a strong understanding of UI/UX principles. I strive to create visually appealing interfaces that not only look great but also provide exceptional usability.
 
